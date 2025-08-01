@@ -97,6 +97,6 @@ A histogram showed the trend of movie production years within this dataset.
 2.  Place the `topimdb.csv` file in the same directory as the script.
 3.  Execute the script from your command line or terminal:
     ```bash
-    python EDA_Script.py
+    python EDA_on_IMDB.ipynb
     ```
 4.  The script will print status updates to the console, save the `cleaned_imdb.csv` file, and generate all the `.png` visualization files in the project directory.
