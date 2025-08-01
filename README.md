@@ -81,7 +81,7 @@ A histogram showed the trend of movie production years within this dataset.
 
 * `topimdb.csv`: The original, raw dataset.
 * `cleaned_imdb.csv`: The cleaned and preprocessed data file.
-* `EDA_Script.py`: The Python script used for the complete analysis.
+* `EDA_on_IMDB.ipynb`: The Python script used for the complete analysis.
 * `correlation_heatmap.png`: Visualization of the correlation matrix.
 * `histograms.png`: Visualizations of numerical feature distributions.
 * `genre_counts.png`: Visualization of movie counts per genre.
